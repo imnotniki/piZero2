@@ -9,6 +9,6 @@ sudo apt install -y git cmake gcc g++ pkg-config \
 Download and run fastfetch for arm6:
 ```bash
 wget https://github.com/imnotniki/piZero2/raw/refs/heads/main/ffetch
-chmod +x fastfetch
-./fastfetch
+chmod +x ffetch
+./ffetch
 ```
