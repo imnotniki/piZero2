@@ -12,3 +12,18 @@ wget https://github.com/imnotniki/piZero2/raw/refs/heads/main/ffetch
 chmod +x ffetch
 ./ffetch
 ```
+
+
+# Compile project
+```bash
+sudo apt update
+```
+```bash
+sudo apt install gcc make libjansson-dev
+```
+```bash
+make
+```
+```bash
+./pi-setup-tool
+```
