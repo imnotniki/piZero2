@@ -25,5 +25,5 @@ sudo apt install gcc make libjansson-dev
 make
 ```
 ```bash
-./pi-setup-tool
+./pi-setup-tool -c ./custom-config.cfg
 ```
